@@ -10,5 +10,8 @@ public class meh(){
     meh(){
         
     }
+    meh2(){
+        
+    }
 
 }
